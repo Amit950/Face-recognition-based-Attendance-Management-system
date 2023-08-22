@@ -43,12 +43,17 @@ PIL (Python Imaging Library)
 The project is structured as follows
 
 face-recognition-attendance/
-├── main.py              # Main application script
-├── blink_detection.py   # Blink detection module
-├── Training_images/     # Directory for student images
-├── Attendance records/  # Directory for attendance records
-├── README.md            # Project documentation
-└── requirements.txt     # List of required Python packages
+main.py 
+
+blink_detection.py   
+
+Training_images     
+
+Attendance records  
+
+README.md            
+
+requirements.txt     
 
 
 ##Contributions
