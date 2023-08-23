@@ -24,7 +24,7 @@ To run this project on your machine, follow these steps:
    python main.py
 
 
-Usage
+##Usage
 1.Launch the application.
 2.Add students by capturing images or uploading them.
 3.Choose the "Go Live" option to start real-time face recognition.
@@ -33,7 +33,7 @@ Usage
 
 
 
-Dependencies
+#Dependencies
 1.Python 3.7 or higher
 2.OpenCV
 3.face_recognition
@@ -43,7 +43,7 @@ Dependencies
 
 
 
-Project Structure
+#Project Structure
 The project is structured as follows
 a. face-recognition-attendance/main.py 
 b. blink_detection.py   
@@ -52,8 +52,8 @@ d. Attendance records
 e. README.md            
 
 
-Contributions
+#Contributions
 Contributions are welcome! If you have any suggestions, bug fixes, or feature enhancements, feel free to create a pull request
 
-Contact
+#Contact
 If you have any questions or need assistance, you can contact Amit at ak4898295@gmail.com
