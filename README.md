@@ -9,7 +9,7 @@ This project implements a Face Recognition Based Attendance Management System us
 - Option to add students and capture images for training.
 - Blink detection for enhanced security.
 
-## Getting Started
+**Getting Started**
 
 To run this project on your machine, follow these steps:
 
