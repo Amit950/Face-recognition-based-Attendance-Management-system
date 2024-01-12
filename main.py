@@ -121,7 +121,7 @@ def process_live_feed():
         cv2.rectangle(imgS_with_blink, (left, top),
                       (right, bottom), (0, 255, 0), 2)
 
-        # Rest of your existing code for recognizing and displaying faces
+        
         matches = face_recognition.compare_faces(encodeListKnown, encodeFace)
         faceDis = face_recognition.face_distance(encodeListKnown, encodeFace)
         matchIndex = np.argmin(faceDis)
