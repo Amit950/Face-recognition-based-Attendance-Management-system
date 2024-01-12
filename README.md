@@ -24,7 +24,7 @@ To run this project on your machine, follow these steps:
    python main.py
 
 
-##Usage
+**Usage**
 1.Launch the application.
 2.Add students by capturing images or uploading them.
 3.Choose the "Go Live" option to start real-time face recognition.
