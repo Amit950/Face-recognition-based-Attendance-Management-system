@@ -2,7 +2,7 @@
 
 This project implements a Face Recognition Based Attendance Management System using Python and OpenCV. The system captures images, recognizes faces, and records attendance in a user-friendly interface.
 
-## Features
+**Features**
 
 - Face detection and recognition using OpenCV and face_recognition library.
 - Real-time attendance recording.
