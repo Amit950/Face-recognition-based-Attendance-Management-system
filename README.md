@@ -33,7 +33,7 @@ To run this project on your machine, follow these steps:
 
 
 
-#Dependencies
+**Dependencies**
 1.Python 3.7 or higher
 2.OpenCV
 3.face_recognition
