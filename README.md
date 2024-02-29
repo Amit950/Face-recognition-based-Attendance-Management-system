@@ -43,7 +43,7 @@ To run this project on your machine, follow these steps:
 
 
 
-#Project Structure
+**Project Structure**
 The project is structured as follows
 a. face-recognition-attendance/main.py 
 b. blink_detection.py   
